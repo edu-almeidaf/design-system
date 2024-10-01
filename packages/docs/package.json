@@ -8,15 +8,17 @@
     "build": "storybook build"
   },
   "dependencies": {
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
     "@design-system/react": "*",
-    "@design-system/tokens": "*"
+    "@design-system/tokens": "*",
+    "polished": "^4.3.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@design-system/eslint-config": "*",
     "@chromatic-com/storybook": "^1.9.0",
+    "@design-system/eslint-config": "*",
     "@rocketseat/eslint-config": "^2.2.2",
+    "@storybook/addon-docs": "^8.3.4",
     "@storybook/addon-essentials": "^8.3.4",
     "@storybook/addon-interactions": "^8.3.4",
     "@storybook/addon-links": "^8.3.4",
