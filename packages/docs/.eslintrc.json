@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "@design-system/eslint-config",
+    "plugin:storybook/recommended"
+  ]
+}
