@@ -23,7 +23,7 @@ jobs:
 
       - run: npm run build
         env:
-          TURBO_TOKEN: RXnKaRmiJRnfhwneD5CvaB2Q
+          TURBO_TOKEN: ${{ secrets.NPM_TOKEN }}
           TURBO_TEAM: edu-almeidaf
 
       - name: Deploy storybook
