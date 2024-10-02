@@ -1,6 +1,6 @@
 import { styled } from '../../styles'
 
-export const TextArea = styled('textarea', {
+export const TextAreaEl = styled('textarea', {
   backgroundColor: '$gray900',
   color: '$white',
   padding: '$3 $4',

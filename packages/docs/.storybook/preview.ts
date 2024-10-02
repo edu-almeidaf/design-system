@@ -13,7 +13,10 @@ const preview: Preview = {
       },
     },
     docs: {
-      theme: themes.dark
+      theme: themes.dark,
+      source: {
+        excludeDecorators: true
+      }
     },
   },
   tags: ['autodocs']
