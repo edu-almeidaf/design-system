@@ -16,7 +16,7 @@ export const TextAreaEl = styled('textarea', {
 
   '&:focus': {
     outline: 0,
-    borderColor: '$ignite300',
+    borderColor: '$blue300',
   },
 
   '&:disabled': {
