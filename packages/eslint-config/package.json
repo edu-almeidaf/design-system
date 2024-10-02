@@ -1,5 +1,5 @@
 {
-  "name": "@design-system/eslint-config",
+  "name": "@edu-ui/eslint-config",
   "license": "MIT",
   "private": true,
   "main": "index.js",

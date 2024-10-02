@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@design-system/tokens'
+} from '@edu-ui/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {

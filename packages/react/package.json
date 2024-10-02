@@ -1,5 +1,5 @@
 {
-  "name": "@design-system/react",
+  "name": "@edu-ui/react",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,9 +14,9 @@
   "license": "MIT",
   "description": "",
   "devDependencies": {
-    "@design-system/eslint-config": "*",
-    "@design-system/tokens": "*",
-    "@design-system/ts-config": "*",
+    "@edu-ui/eslint-config": "*",
+    "@edu-ui/tokens": "*",
+    "@edu-ui/ts-config": "*",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
     "react": "^18.3.1",
