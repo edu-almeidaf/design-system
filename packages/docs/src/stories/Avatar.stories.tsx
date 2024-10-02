@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/edu-almeidaf.png',
     alt: 'Eduardo de Almeida Fernandes',
   },
+  argTypes: {
+    children: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}

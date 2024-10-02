@@ -12,11 +12,11 @@ export const Heading = styled('h2', {
       sm: { fontSize: '$xl' },
       md: { fontSize: '$2xl' },
       lg: { fontSize: '$4xl' },
-      '2xl': { fontSize: '$5xl' },
-      '3xl': { fontSize: '$6xl' },
-      '4xl': { fontSize: '$7xl' },
-      '5xl': { fontSize: '$8xl' },
-      '6xl': { fontSize: '$9xl' },
+      xl: { fontSize: '$5xl' },
+      '2xl': { fontSize: '$6xl' },
+      '3xl': { fontSize: '$7xl' },
+      '4xl': { fontSize: '$8xl' },
+      '5xl': { fontSize: '$9xl' },
     },
   },
 
@@ -27,4 +27,6 @@ export const Heading = styled('h2', {
 
 Heading.displayName = 'Heading'
 
-export interface HeadingProps extends ComponentProps<typeof Heading> {}
+export interface HeadingProps extends ComponentProps<typeof Heading> {
+  size: 'sm' | 'md' | 'lg' | 'xl' | '2xl' | '3xl' | '4xl' | '5xl'
+}
