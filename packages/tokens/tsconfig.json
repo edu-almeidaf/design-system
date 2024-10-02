@@ -1,4 +1,4 @@
 {
-  "extends": "@edu-ui/ts-config/base.json",
+  "extends": "@edu-almeida-ui/ts-config/base.json",
   "include": ["src"]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@edu-ui/global",
+  "name": "@edu-almeida-ui/global",
   "private": true,
   "workspaces": [
     "packages/*"
@@ -9,7 +9,7 @@
     "build": "turbo run build",
     "changeset": "changeset",
     "version-packages": "changeset version",
-    "release": "turbo run build --filter=@edu-ui/docs && changeset publish"
+    "release": "turbo run build --filter=@edu-almeida-ui/docs && changeset publish"
   },
   "devDependencies": {
     "@changesets/cli": "^2.27.8",

@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { TextInput, TextInputProps, Box, Text } from '@edu-ui/react'
+import { TextInput, TextInputProps, Box, Text } from '@edu-almeida-ui/react'
 
 export default {
   title: 'Form/Text Input',

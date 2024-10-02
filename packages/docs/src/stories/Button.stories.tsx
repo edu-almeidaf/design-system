@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Button, ButtonProps } from '@edu-ui/react'
+import { Button, ButtonProps } from '@edu-almeida-ui/react'
 import { ArrowRight } from 'lucide-react'
 
 export default {

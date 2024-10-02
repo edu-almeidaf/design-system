@@ -1,6 +1,6 @@
 {
-  "name": "@edu-ui/docs",
-  "version": "0.0.0",
+  "name": "@edu-almeida-ui/docs",
+  "version": "1.0.0",
   "type": "module",
   "license": "MIT",
   "scripts": {
@@ -9,8 +9,8 @@
     "deploy-storybook": "storybook-to-ghpages"
   },
   "dependencies": {
-    "@edu-ui/react": "*",
-    "@edu-ui/tokens": "*",
+    "@edu-almeida-ui/react": "*",
+    "@edu-almeida-ui/tokens": "*",
     "@storybook/addon-a11y": "^8.3.4",
     "lucide-react": "^0.447.0",
     "polished": "^4.3.1",
@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@chromatic-com/storybook": "^1.9.0",
-    "@edu-ui/eslint-config": "*",
+    "@edu-almeida-ui/eslint-config": "*",
     "@rocketseat/eslint-config": "^2.2.2",
     "@storybook/addon-essentials": "^8.3.4",
     "@storybook/addon-interactions": "^8.3.4",
