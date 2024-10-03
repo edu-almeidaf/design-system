@@ -1,0 +1,4 @@
+import{j as o}from"./jsx-runtime-BlAj40OV.js";import{useMDXComponents as e}from"./index-BI1Biiay.js";import{ae as n,af as i}from"./index-gVdnMA5V.js";import{T as m}from"./TokensGrid-Xr1uVsOF.js";import{r as a}from"./index-HVEap9P9.js";import"./index-Cs7sjTYM.js";import"./_commonjsHelpers-BosuxZz1.js";import"./iframe-dehGLBpG.js";import"../sb-preview/runtime.js";import"./index-DruHAin_.js";import"./index-Cf-03bMR.js";import"./index-D-8MO0q_.js";import"./index-DF3CPj03.js";import"./index-DrFu-skq.js";function s(r){const t={h1:"h1",p:"p",...e(),...r.components};return o.jsxs(o.Fragment,{children:[o.jsx(n,{title:"Tokens/Border Radius"}),`
+`,o.jsx(t.h1,{id:"border-radius",children:"Border Radius"}),`
+`,o.jsx(t.p,{children:"Esses são os border-radius utilizados no meu Design System."}),`
+`,o.jsx(i,{children:o.jsx(m,{tokens:a})})]})}function R(r={}){const{wrapper:t}={...e(),...r.components};return t?o.jsx(t,{...r,children:o.jsx(s,{...r})}):s(r)}export{R as default};

@@ -1,0 +1,1 @@
+import{N as o}from"./index-DruHAin_.js";import"./index-Cs7sjTYM.js";import"./_commonjsHelpers-BosuxZz1.js";const a={parameters:{backgrounds:{default:"dark"},controls:{matchers:{color:/(background|color)$/i,date:/Date$/i}},docs:{theme:o.dark,source:{excludeDecorators:!0}}},tags:["autodocs"]};export{a as default};

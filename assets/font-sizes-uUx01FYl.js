@@ -1,0 +1,4 @@
+import{j as t}from"./jsx-runtime-BlAj40OV.js";import{useMDXComponents as e}from"./index-BI1Biiay.js";import{ae as i,af as r}from"./index-gVdnMA5V.js";import{T as m}from"./TokensGrid-Xr1uVsOF.js";import{f as p}from"./index-HVEap9P9.js";import"./index-Cs7sjTYM.js";import"./_commonjsHelpers-BosuxZz1.js";import"./iframe-dehGLBpG.js";import"../sb-preview/runtime.js";import"./index-DruHAin_.js";import"./index-Cf-03bMR.js";import"./index-D-8MO0q_.js";import"./index-DF3CPj03.js";import"./index-DrFu-skq.js";function s(o){const n={h1:"h1",p:"p",...e(),...o.components};return t.jsxs(t.Fragment,{children:[t.jsx(i,{title:"Tokens/Font Sizes"}),`
+`,t.jsx(n.h1,{id:"font-sizes",children:"Font Sizes"}),`
+`,t.jsx(n.p,{children:"Esses são os font-sizes utilizados no meu Design System."}),`
+`,t.jsx(r,{children:t.jsx(m,{tokens:p,hasRemValue:!0})})]})}function y(o={}){const{wrapper:n}={...e(),...o.components};return n?t.jsx(n,{...o,children:t.jsx(s,{...o})}):s(o)}export{y as default};
